@@ -1,6 +1,6 @@
 <h1> $\color{yellow}\text{Medical Image Analysis | Digital Pathology}$ </h1>
 
-##Goals for Digital Pathology and Medical Image Analysis with AI and Neural Networks
+<!--Goals for Digital Pathology and Medical Image Analysis with AI and Neural Networks-->
 
 <li> <b>Boost Diagnostic Precision:</b> Build AI tools that help doctors spot and classify diseases in pathology slides and medical images more accurately than traditional approaches. </li>
 <li> <b>Simplify Tissue Mapping:</b> Create neural networks to automatically outline tissues, cells, and abnormalities, making analysis faster and easier for pathologists. </li>
