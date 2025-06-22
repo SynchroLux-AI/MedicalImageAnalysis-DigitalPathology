@@ -1,1 +1,1 @@
-<h1> Medical Image Analysis | Digital Pathology </h1>
+<h1> $\text{Medical Image Analysis | Digital Pathology}$ </h1>
